@@ -1,0 +1,7 @@
+[2025-11-12 18:02:39] [INFO] ===== DATA TRANSFORMATION START =====
+[2025-11-12 18:02:39] [INFO] Input: data_/prices.csv
+[2025-11-12 18:02:39] [INFO] Loaded 1222 rows x 15 cols
+[2025-11-12 18:02:39] [INFO] [SAVED] returns -> data_/returns.csv
+[2025-11-12 18:02:39] [INFO] [SAVED] features -> data_/features.csv (1222 rows x 60 cols)
+[2025-11-12 18:02:39] [INFO] ===== DATA TRANSFORMATION COMPLETE =====
+
