@@ -42,13 +42,6 @@ To obtain a **sparse** and interpretable precision matrix, we solve a **regulari
 - \lambda \|\Theta\|_{1,\text{off}}.
 ```
 
-Where $\log\det(\Theta) - \mathrm{tr}(\hat{\Sigma}\Theta)$ is the Gaussian log-likelihood, and 
-```math
- \|\Theta\|_{1,\text{off}} = \sum_{i \neq j} |\Theta_{ij}|
- ``` 
- encourages sparsity.
-
-
 Where $\log\det(\Theta) - \mathrm{tr}(\hat{\Sigma}\Theta)$ is the Gaussian log-likelihood, and $\lVert\Theta\rVert_{1,\mathrm{off}} = \sum_{i \ne j} \lvert\Theta_{ij}\rvert$ encourages sparsity.
 
 - $\lambda \ge 0$ is a hyperparameter controlling sparsity:
