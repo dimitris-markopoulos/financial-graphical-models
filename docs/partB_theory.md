@@ -34,15 +34,9 @@ This defeats the entire purpose of a graphical model.
 
 ### Graphical Lasso (GLasso)
 
-To obtain a **sparse** and interpretable precision matrix, we solve a **regularized maximum-likelihood** problem:
+To obtain a **sparse** and interpretable precision matrix, we solve a **regularized maximum-likelihood** problem:   
 
-$$
-\max_{\Theta \succeq 0}
-\quad
-\log \det(\Theta)
-- \operatorname{tr}(\hat{\Sigma}\Theta)
-- \lambda \|\Theta\|_{1,\text{off}}.
-$$
+$\max_{\Theta \succeq 0} \quad \log \det(\Theta) - \operatorname{tr}(\hat{\Sigma}\Theta) - \lambda \|\Theta\|_{1,\text{off}}$.
 
 Where $\log\det(\Theta) - \mathrm{tr}(\hat{\Sigma}\Theta)$ is the Gaussian log-likelihood, and $\|\Theta\|_{1,\text{off}} = \sum_{i \neq j} |\Theta_{ij}|$ encourages sparsity.
 
