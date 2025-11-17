@@ -53,8 +53,9 @@ Before fitting the nonparanormal graphical model, we first apply the **Gaussian 
 
 To illustrate this transformation, the plots below show (across a single ticker):
 
-1. **Standardized ranks** — approximately $\text{Uniform}(0,1)$  
-2. **Inverse-normal scores** — approximately $\mathcal{N}(0,1)$  
+1. [LEFT] **Empirical returns** — approximately Gaussian but with noticeable deviations (e.g., mild skewness or t-distribution-like heavy tails)
+2. [MIDDLE] **Standardized ranks** — approximately $\text{Uniform}(0,1)$  
+3. [RIGHT] **Inverse-normal scores** — approximately $\mathcal{N}(0,1)$  
 
 ![Copula Transform Demo](media/demo_copula_transform.png)
 
