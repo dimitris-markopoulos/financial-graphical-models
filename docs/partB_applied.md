@@ -2,7 +2,7 @@
 
 ### Initial Graphical Lasso Fit Across an $\alpha$-Grid
 
-Before selecting any hyperparameter, we begin by fitting Graphical Lasso across a grid of penalty values $\alpha \in \{0.001,\; 0.01,\; 0.1,\; 0.5\}$ to visualize how regularization shapes the structure of the estimated precision matrix.
+Before selecting any hyperparameter, we begin by fitting Graphical Lasso across a grid of penalty values $\alpha \in \{0.001, 0.01, 0.1, 0.5\}$ to visualize how regularization shapes the structure of the estimated precision matrix.
 
 Smaller $\alpha$ values produce **dense graphs** with many conditional dependencies, while larger $\alpha$ values encourage **sparser**, more interpretable structure.  
 Inspecting this grid helps us see:
@@ -42,17 +42,5 @@ Interpretation:
 - Edges with frequency **1.0** are present in *every* bootstrap fit—representing the **most robust, data-supported conditional dependencies**.
 
 Unlike marginal correlation, these stable edges correspond to **direct partial dependencies** that persist even after conditioning on all other variables. Stability selection therefore isolates the most reliable structural relationships in the graphical model.
-
-### Interpretation
-
-INSERT
-
-
-
----
----
----
----
----
 
 ---
