@@ -1,4 +1,4 @@
-# Part B — Applied Analysis (Graphical Lasso + Stability Selection)
+# Graphical Lasso
 
 ### Initial Graphical Lasso Fit Across an $\alpha$-Grid
 
@@ -44,3 +44,61 @@ Interpretation:
 Unlike marginal correlation, these stable edges correspond to **direct partial dependencies** that persist even after conditioning on all other variables. Stability selection therefore isolates the most reliable structural relationships in the graphical model.
 
 ---
+
+# Nonparanormal Graphical Model
+
+### Copula-Based Marginal Gaussianization
+
+Before fitting the nonparanormal graphical model, we first apply the **Gaussian copula (rank $\rightarrow$ uniform $\rightarrow$ Gaussian)** transform to each variable. This transformation preserves **all monotone dependence relationships**, removes marginal skewness and heavy tails, and produces a dataset whose **marginals are Gaussian**, but whose **dependence structure** is unchanged.
+
+To illustrate this transformation, the plots below show (across a single ticker):
+
+1. **Standardized ranks** — approximately $\text{Uniform}(0,1)$  
+2. **Inverse-normal scores** — approximately $\mathcal{N}(0,1)$  
+
+![Copula Transform Demo](media/demo_copula_transform.png)
+
+This verifies that the copula transform succeeds in Gaussianizing the marginals.
+
+---
+
+### Applying Graphical Lasso to Copula-Transformed Data
+
+After transforming the raw returns matrix $X$ into its Gaussianized version $Z$, we repeat the same pipeline used for the Gaussian graphical model:
+
+1. Fit **Graphical Lasso with cross-validation** to obtain $\alpha^*$.  
+2. Extract the estimated precision matrix and adjacency structure.  
+3. Perform **10,000-bootstrap stability selection** to identify robust edges.
+
+The cross-validated result for the nonparanormal model is shown below:
+
+![Nonparanormal CV](media/nonparanormal_CV.png)
+
+As before, cross-validation tends to prefer denser graphs, so this serves as a **starting point** rather than a final model.
+
+---
+
+### Bootstrap Stability Selection (Nonparanormal)
+
+We again perform stability selection under the nonparanormal transformation. For each bootstrap sample:
+
+- resample rows of the copula-transformed matrix $Z$,
+- refit Graphical Lasso using the fixed $\alpha^*$ from CV,
+- record whether each edge appears.
+
+Accumulating over 10,000 bootstrap fits yields a **selection-frequency heatmap** and thresholded adjacency matrices:
+
+![Nonparanormal Stability](media/nonparanormal_tuning.png)
+
+These plots show how frequently each edge persists under sampling variability. Edges with frequency **1.0** appear in *every* bootstrap fit and represent the **most stable** conditional dependencies in the nonparanormal model.
+
+---
+
+### Summary
+
+- The copula transform allows us to fit a **semiparametric** graphical model that relaxes Gaussian marginal assumptions.  
+- After Gaussianizing the marginals, the standard Graphical Lasso machinery applies unchanged.  
+- In our dataset, the Gaussian and nonparanormal models produce **nearly identical graphs**, confirming that the raw returns are already close to Gaussian.  
+- Stability selection again highlights a small set of **robust partial dependencies** that persist across both models.
+
+This completes the nonparanormal graphical model analysis.
