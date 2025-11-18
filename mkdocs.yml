@@ -1,0 +1,35 @@
+site_name: Financial Graphical Models
+theme:
+  name: material
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - toc.integrate
+
+nav:
+  - Home: index.md
+  - Part A:
+      - Theory: partA.md
+  - Part B:
+      - Gaussian GGM Theory: partB_gaussian_graphical_model_theory.md
+      - Nonparanormal Theory: partB_nonparanormal_graphical_model_theory.md
+      - Applied Analysis: partB_applied.md
+  - Part C:
+      - PC Algorithm Demo: partC_demo_PC_algorithm.md
+
+markdown_extensions:
+  - pymdownx.arithmatex:
+      generic: true
+  - admonition
+  - codehilite
+  - footnotes
+  - meta
+  - toc:
+      permalink: true
+
+extra_javascript:
+  - https://polyfill.io/v3/polyfill.min.js?features=es6
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
+
+

@@ -6,16 +6,20 @@ import os
 from datetime import datetime
 from tqdm import tqdm
 
-def log(msg: str, log_file: str, level: str = "INFO"):
+def log(msg: str, log_file: str, level: str = "INFO", echo: bool = True):
     """
-    Append a timestamped message to a log file and echo via tqdm.
+    Append a timestamped message to a log file.
+    If echo=True, also print via tqdm.write (for notebooks/CLI).
     """
     timestamp = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
     line = f"[{timestamp}] [{level}] {msg}"
+
     os.makedirs(os.path.dirname(log_file), exist_ok=True)
     with open(log_file, "a") as f:
         f.write(line + "\n")
-    tqdm.write(line)
+
+    if echo:
+        tqdm.write(line)
 
 def fetch_poly_api_key():
     """
