@@ -10,4 +10,4 @@
 
 **PC Algorithm**  
 [Part C.1 - demo](docs/partC_demo_PC_algorithm.md)  
-[Part C.2 - applied](docs/partC_demo_PC_algorithm.md) 
+[Part C.2 - applied](docs/partC_applied_PC_algo.md) 
