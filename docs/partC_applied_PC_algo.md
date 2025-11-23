@@ -24,7 +24,7 @@ Thus, **$\alpha^* = 0.001$** achieves a desirable balance between sparsity and i
 
 ### Stability Analysis
 
-To assess robustness of the PC graph at $\alpha^* = 0.001$, I performed $B = 50$ bootstrap resamples of the returns data. For each bootstrap sample, I refit the PC algorithm, extracted the *undirected skeleton* of the CPDAG, and recorded whether an edge between each pair of stocks was present. This yields an edge-selection frequency $\hat{\pi}_{ij} = \frac{\#\{\text{bootstraps where } i\text{--}j \text{ appears}\}}{B}.$
+To assess robustness of the PC graph at $\alpha^* = 0.001$, I performed $B = 50$ bootstrap resamples of the returns data. For each bootstrap sample, I refit the PC algorithm, extracted the *undirected skeleton* of the CPDAG, and recorded whether an edge between each pair of stocks was present. This yields an edge-selection frequency $\hat{\pi}_{ij} = \frac{\text{number of bootstraps where edge } i\text{--}j \text{ appears}}{B}$.
 
 ![pc_stability.png](media/pc_stability.png)
 
