@@ -20,7 +20,7 @@ Among the grid, **$\alpha = 0.001$** provides the most coherent and stable graph
 
 - **Avoids extremes**, i.e., $\alpha \geq 0.05$ is too sparse and drops economically meaningful links finding just sector based relationships.
 
-Thus, **$\alpha^* = 0.001$** achieves a desirable balance between sparsity and interpretability, producing a graph that aligns closely with established market structure. We therefore adopt **$\alpha^* = 0.001$** for our final PC model and use this value in the subsequent stability (bootstrap) analysis.
+Thus, $\alpha^* = 0.001$ achieves a desirable balance between sparsity and interpretability, producing a graph that aligns closely with established market structure. We therefore adopt $\alpha^* = 0.001$ for our final PC model and use this value in the subsequent stability (bootstrap) analysis.
 
 ### Stability Analysis
 
@@ -28,4 +28,4 @@ To assess robustness of the PC graph at $\alpha^* = 0.001$, I performed $B = 50$
 
 ![pc_stability.png](media/pc_stability.png)
 
-The left panel plots the selection-frequency heatmap $\hat{\pi}_{ij}$. The subsequent panels show thresholded adjacency matrices for different stability cutoffs (e.g., $\hat{\pi}_{ij} \ge 0.5, 0.75, 0.9, 0.95, 0.995$). Edges within the tech cluster (AAPL, MSFT, GOOGL, META, AMZN, NVDA), the bank pair (JPM–BAC), the energy pair (XOM–CVX), and the staples/healthcare cluster (PG, KO, WMT, JNJ, PFE) remain present at high thresholds, indicating that these sector-level dependencies are highly stable to resampling, whereas weaker cross-sector links disappear as the stability cutoff increases.
+The left panel plots the selection-frequency heatmap $\hat{\pi}\_{ij}$. The subsequent panels show thresholded adjacency matrices for different stability cutoffs (e.g., $\hat{\pi}\_{ij} \ge 0.5, 0.75, 0.9, 0.95, 0.995$). Edges within the tech cluster (AAPL, MSFT, GOOGL, META, AMZN, NVDA), the bank pair (JPM–BAC), the energy pair (XOM–CVX), and the staples/healthcare cluster (PG, KO, WMT, JNJ, PFE) remain present at high thresholds, indicating that these sector-level dependencies are highly stable to resampling, whereas weaker cross-sector links disappear as the stability cutoff increases.
