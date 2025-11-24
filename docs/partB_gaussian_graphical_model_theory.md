@@ -7,8 +7,8 @@ The **precision matrix** is defined as the inverse covariance: $\Theta = \Sigma^
 
 A fundamental property of multivariate Gaussians: $\Theta_{ij} = 0 \quad\Longleftrightarrow\quad X_i \perp X_j \mid X_{\{1,\dots,p\}\setminus\{i,j\}}$.
 This means:
-- **Zero entry** >>> conditional independence  
-- **Nonzero entry** >>> conditional dependence (an *edge* in the graph)
+- **Zero entry** $\rightarrow$ conditional independence  
+- **Nonzero entry** $\rightarrow$ conditional dependence (an *edge* in the graph)
 
 Thus, the structure of the graphical model (edges / no edges) is read **directly from** the sparsity pattern of $\Theta$.
 
@@ -36,18 +36,18 @@ This defeats the entire purpose of a graphical model.
 
 To obtain a **sparse** and interpretable precision matrix, we solve a **regularized maximum-likelihood** problem:   
 
-```math
-\max_{\Theta \succeq 0} \quad \log\det(\Theta)
+$$
+\max_{\Theta \succeq 0} \; \log\det(\Theta)
 - \mathrm{tr}(\hat{\Sigma}\Theta)
 - \lambda \|\Theta\|_{1,\text{off}}.
-```
+$$
 
 Where $\log\det(\Theta) - \mathrm{tr}(\hat{\Sigma}\Theta)$ is the Gaussian log-likelihood, and $\lVert\Theta\rVert_{1,\mathrm{off}} = \sum_{i \ne j} \lvert\Theta_{ij}\rvert$ encourages sparsity.
 
 - $\lambda \ge 0$ is a hyperparameter controlling sparsity:
 
-  - $\lambda = 0$ >>> dense graph  
-  - $\lambda \uparrow$ >>> sparser graph (more zeros in $\Theta$)
+  - $\lambda = 0$ $\rightarrow$ dense graph  
+  - $\lambda \uparrow$ $\rightarrow$ sparser graph (more zeros in $\Theta$)
 
 Graphical Lasso produces a **sparse** precision matrix with meaningful conditional dependencies.
 
@@ -57,8 +57,8 @@ Graphical Lasso produces a **sparse** precision matrix with meaningful condition
 
 The estimated precision matrix $\Theta$ encodes **conditional dependencies** between assets after controlling for all other stocks in the universe. An off-diagonal entry $\Theta_{ij}$ represents the partial correlation between asset $i$ and $j$:
 
-- **Negative $\Theta_{ij}$** >>> the two assets tend to move in the **same direction**, *given all other assets are held fixed*.  
-- **Positive $\Theta_{ij}$** >>> the assets tend to move in **opposite directions** (conditionally).  
+- **Negative $\Theta_{ij}$** $\rightarrow$ the two assets tend to move in the **same direction**, *given all other assets are held fixed*.  
+- **Positive $\Theta_{ij}$** $\rightarrow$ the assets tend to move in **opposite directions** (conditionally).  
 - **Magnitude** reflects the **strength** of the conditional dependence.  
 - Diagonal terms are always positive (inverse variances) and are not interpreted.
 
