@@ -3,8 +3,7 @@
 For this section, we collect and preprocess **daily stock return data** from **January 2021 to present** for the following 15 large-cap U.S. companies:
 
 ```
-AAPL, MSFT, GOOGL, AMZN, META, NVDA,
-JPM, BAC, XOM, CVX, JNJ, PFE, WMT, PG, KO
+AAPL, MSFT, GOOGL, AMZN, META, NVDA, JPM, BAC, XOM, CVX, JNJ, PFE, WMT, PG, KO
 ```
 Daily closing prices are downloaded and aligned on trading days. 
 
