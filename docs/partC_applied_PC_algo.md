@@ -2,6 +2,10 @@
 
 ### Selecting the PC Algorithm Significance Level ($\alpha^*$)
 
+Before performing any quantitative tuning, I first visualized the directed CPDAG output of the PC algorithm across a grid of significance levels $\alpha \in \{0.001, 0.005, 0.01, 0.05\}$ to understand how graph sparsity evolves as the conditional-independence threshold changes. This exploratory step helps reveal how sensitive the directed structure is to $\alpha$ and provides intuition about which values preserve meaningful sector-level dependencies and which values oversimplify the graph.  
+
+![pc_algorithm_on_alpha_grid.png](media/pc_algorithm_on_alpha_grid.png)
+
 To tune the Type I error rate in the PC algorithm, I used **K-fold cross-validation** based on the Gaussian log-likelihood implied by the conditional-independence tests. For a grid of values $\alpha \in \{0.001, 0.005, 0.01, 0.05\}$, the PC algorithm was fit on each training split to estimate a graph structure. Given this structure, I fit a Gaussian graphical model on the same training fold (using Graphical Lasso) and evaluated the held-out Gaussian log-likelihood on the validation fold. This provides an unsupervised, likelihood-based criterion for comparing different significance levels. The average validation scores across folds are shown below.
 
 ![CV_pc_algo.png](media/CV_pc_algo.png)
