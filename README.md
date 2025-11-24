@@ -1,4 +1,9 @@
-*reports below*
+*live report*  
+[website link](https://dimitris-markopoulos.github.io/financial-graphical-models/)
+
+---
+
+*markdown reports below*
 
 **EDA**  
 [Part A](docs/partA.md)  
