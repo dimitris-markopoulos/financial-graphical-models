@@ -1941,3 +1941,828 @@
 [2025-11-23 15:18:58] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
  {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
 [2025-11-23 15:18:58] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 19:43:19] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 19:43:20] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 19:43:20] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 19:43:22] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 19:43:22] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 19:43:23] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 19:43:23] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 19:43:25] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 19:43:26] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 19:43:26] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 19:43:26] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 19:43:27] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 19:43:27] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 19:43:28] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 19:43:28] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 19:43:29] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 19:43:29] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 19:43:30] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 19:43:30] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 19:43:30] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 19:43:30] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 19:43:31] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 19:43:31] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 19:43:32] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 19:43:32] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 19:43:33] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 19:43:33] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 19:43:34] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 19:43:34] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 19:43:35] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 19:43:35] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 19:43:35] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 19:43:35] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 19:43:36] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 19:43:36] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 19:43:37] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 19:43:37] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 19:43:37] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 19:43:37] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 19:43:38] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 19:43:38] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 19:43:39] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 19:43:39] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 19:43:40] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 19:43:40] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 19:43:41] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 19:43:41] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 19:43:41] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 19:43:41] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 19:43:42] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 19:43:42] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 19:43:43] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 19:43:43] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 19:43:44] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 19:43:44] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 19:43:45] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 19:43:45] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 19:43:46] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 19:43:46] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 19:43:46] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 19:43:46] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 19:43:47] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 19:43:47] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 19:43:48] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 19:43:48] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 19:43:49] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 19:43:49] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 19:43:50] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 19:43:50] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 19:43:51] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 19:43:51] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 19:43:51] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 19:43:51] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 19:43:52] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 19:43:52] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 19:43:53] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 19:43:53] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 19:43:54] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 19:43:54] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 19:43:55] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 19:43:55] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 19:43:55] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 19:43:55] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 19:43:56] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 19:43:56] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 19:43:57] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 19:43:57] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 19:43:58] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 19:43:58] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 19:43:58] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 19:43:58] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 19:43:59] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 19:43:59] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 19:44:00] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 19:44:00] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 19:44:01] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 19:44:01] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 19:44:01] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 19:45:13] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 19:45:14] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 19:45:14] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 19:45:15] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 19:45:15] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 19:45:17] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 19:45:17] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 19:45:19] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 19:45:19] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 19:45:20] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 19:45:20] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 19:45:21] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 19:45:21] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 19:45:21] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 19:45:21] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 19:45:22] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 19:45:22] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 19:45:23] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 19:45:23] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 19:45:24] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 19:45:24] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 19:45:24] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 19:45:24] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 19:45:25] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 19:45:25] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 19:45:26] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 19:45:26] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 19:45:27] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 19:45:27] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 19:45:27] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 19:45:27] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 19:45:28] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 19:45:28] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 19:45:29] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 19:45:29] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 19:45:30] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 19:45:30] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 19:45:31] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 19:45:31] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 19:45:32] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 19:45:32] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 19:45:33] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 19:45:33] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 19:45:34] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 19:45:34] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 19:45:35] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 19:45:35] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 19:45:35] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 19:45:35] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 19:45:36] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 19:45:36] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 19:45:37] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 19:45:37] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 19:45:38] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 19:45:38] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 19:45:39] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 19:45:39] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 19:45:40] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 19:45:40] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 19:45:41] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 19:45:41] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 19:45:42] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 19:45:42] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 19:45:43] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 19:45:43] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 19:45:44] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 19:45:44] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 19:45:45] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 19:45:45] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 19:45:46] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 19:45:46] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 19:45:46] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 19:45:46] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 19:45:47] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 19:45:47] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 19:45:48] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 19:45:59] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 19:46:00] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 19:46:00] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 19:46:01] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 19:46:01] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 19:46:02] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 19:46:02] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 19:46:04] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 19:46:04] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 19:46:11] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 19:46:40] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 19:49:26] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 19:49:35] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 19:49:36] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 19:49:36] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 19:49:37] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 19:49:37] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 19:49:39] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 19:49:39] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 19:49:41] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 19:49:44] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 19:49:45] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 19:50:40] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 19:50:41] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 19:51:18] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 19:51:19] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 19:51:19] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 19:51:20] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 19:51:20] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 19:51:20] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 19:51:20] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 19:51:21] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 19:51:21] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 19:51:22] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 19:51:22] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 19:51:23] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 19:51:23] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 19:51:23] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 19:51:23] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 19:51:24] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 19:51:24] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 19:51:25] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 19:51:25] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 19:51:27] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 19:51:27] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 19:51:28] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 19:51:28] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 19:51:29] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 19:51:29] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 19:51:30] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 19:51:30] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 19:51:31] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 19:51:31] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 19:51:32] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 19:51:32] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 19:51:34] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 19:51:34] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 19:51:36] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 19:51:36] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 19:51:37] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 19:51:37] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 19:51:39] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 19:51:39] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 19:51:41] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 19:52:49] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 19:52:50] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 19:54:45] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 19:54:46] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 19:54:46] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 19:54:46] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 19:54:46] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 19:54:47] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 19:54:47] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 19:54:48] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 19:54:48] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 19:54:49] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 19:54:49] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 19:54:49] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 19:54:49] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 19:54:50] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 19:54:50] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 19:54:51] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 19:54:51] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 19:54:52] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 19:54:52] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 19:54:53] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 19:54:53] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 19:54:54] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 19:54:54] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 19:54:55] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 19:54:55] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 19:54:56] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 19:54:56] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 19:54:57] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 19:54:58] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 19:54:59] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 19:54:59] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 19:55:00] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 19:55:00] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 19:55:02] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 19:55:02] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 19:55:04] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 19:55:04] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 19:55:05] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 19:55:05] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 19:55:07] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 20:06:07] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 20:06:07] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 20:06:07] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 20:06:09] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 20:06:09] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 20:06:10] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 20:06:10] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 20:06:12] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 20:06:20] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 20:06:20] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 20:06:20] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 20:06:21] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 20:06:21] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 20:06:21] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 20:06:21] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 20:06:22] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 20:06:22] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 20:06:23] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 20:06:23] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 20:06:23] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 20:06:23] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 20:06:24] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 20:06:24] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 20:06:25] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 20:06:25] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 20:06:25] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 20:06:25] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 20:06:26] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 20:06:26] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 20:06:27] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 20:06:27] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 20:06:27] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 20:06:27] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 20:06:28] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 20:06:28] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 20:06:29] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 20:06:29] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 20:06:30] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 20:06:30] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 20:06:31] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 20:06:31] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 20:06:32] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 20:06:32] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 20:06:32] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 20:06:32] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 20:06:34] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 20:06:34] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 20:06:35] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 20:06:35] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 20:06:36] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 20:06:36] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 20:06:37] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 20:06:37] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 20:06:37] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 20:06:37] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 20:06:39] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 20:06:39] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 20:06:40] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 20:06:40] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 20:06:41] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 20:06:41] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 20:06:42] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 20:06:42] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 20:06:43] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 20:06:43] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 20:06:44] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 20:06:44] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 20:06:46] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 20:06:46] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 20:06:47] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 20:06:47] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 20:06:49] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 20:06:49] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 20:06:50] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 20:06:50] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 20:06:51] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 20:06:51] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 20:06:53] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 20:06:53] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 20:06:55] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 20:06:55] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 20:06:57] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 20:06:57] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 20:06:58] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 20:06:58] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 20:07:00] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 20:07:00] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 20:07:02] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 20:07:16] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 20:07:16] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 20:07:16] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 20:07:17] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 20:07:17] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 20:07:17] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 20:07:17] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 20:07:18] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 20:07:18] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 20:07:18] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 20:07:19] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 20:07:19] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 20:07:19] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 20:07:20] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 20:07:20] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 20:07:20] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 20:07:20] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 20:07:21] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 20:07:21] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 20:07:22] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 20:07:22] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 20:07:22] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 20:07:22] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 20:07:23] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 20:07:23] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 20:07:24] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 20:07:24] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 20:07:25] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 20:07:25] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 20:07:26] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 20:07:26] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 20:07:27] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 20:07:27] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 20:07:27] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 20:07:27] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 20:07:28] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 20:07:28] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 20:07:29] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 20:07:29] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 20:07:30] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 20:07:30] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 20:07:31] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 20:07:31] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 20:07:32] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 20:07:32] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 20:07:33] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 20:07:33] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 20:07:34] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 20:07:34] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 20:07:35] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 20:07:35] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 20:07:36] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 20:07:36] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 20:07:37] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 20:07:37] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 20:07:38] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 20:07:38] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 20:07:40] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 20:07:40] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 20:07:41] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 20:07:41] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 20:07:42] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 20:07:42] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 20:07:44] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 20:07:44] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 20:07:45] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 20:07:45] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 20:07:46] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 20:07:46] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 20:07:48] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 20:07:48] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 20:07:49] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 20:07:49] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 20:07:51] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 20:07:51] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 20:07:53] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 20:07:53] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 20:07:54] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 20:07:54] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 20:07:57] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 20:08:26] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 20:08:28] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 20:08:28] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 20:08:30] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 20:08:30] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 20:08:31] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 20:08:31] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 20:08:33] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 20:08:33] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 20:08:35] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 20:08:35] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 20:08:37] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 20:08:37] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 20:08:40] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 20:08:40] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 20:08:41] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 20:08:41] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 20:08:42] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 20:08:42] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 20:08:45] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 20:08:45] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 20:08:47] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 20:08:47] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 20:08:49] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 20:08:49] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 20:08:50] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 20:08:50] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 20:08:52] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 20:08:52] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 20:08:53] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 20:08:53] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 20:08:55] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 20:08:55] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 20:08:57] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 20:08:57] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 20:08:59] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 20:08:59] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 20:09:00] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 20:09:00] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 20:09:02] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 20:09:02] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 20:09:03] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 20:09:03] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 20:09:05] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 20:09:05] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 20:09:06] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 20:09:06] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 20:09:09] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 20:09:09] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 20:09:11] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 20:09:11] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 20:09:13] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 20:09:13] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 20:09:15] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 20:09:15] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 20:09:16] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 20:09:16] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 20:09:18] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 20:09:18] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 20:09:20] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 20:09:20] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 20:09:21] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 20:09:21] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 20:09:24] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 20:09:24] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 20:09:25] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 20:09:25] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 20:09:27] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 20:09:27] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 20:09:29] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 20:09:29] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 20:09:31] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 20:09:31] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 20:09:32] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 20:09:32] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 20:09:33] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 20:09:33] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 20:09:35] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 20:09:35] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 20:09:37] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 20:09:37] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 20:09:39] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 20:09:39] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 20:09:40] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 20:09:40] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 20:09:41] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 20:09:41] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 20:09:44] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 20:09:44] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 20:09:45] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 20:09:45] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 20:09:47] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 20:09:47] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 20:09:49] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 20:09:49] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 20:09:51] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 20:09:51] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 20:09:52] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 20:09:52] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 20:09:54] [INFO] Reached maximum number of allowed conditional variables. Exiting
+[2025-11-23 20:09:54] [INFO]  Datatype (N=numerical, C=Categorical Unordered, O=Categorical Ordered) inferred from data: 
+ {'AAPL': 'N', 'MSFT': 'N', 'GOOGL': 'N', 'AMZN': 'N', 'META': 'N', 'NVDA': 'N', 'JPM': 'N', 'BAC': 'N', 'XOM': 'N', 'CVX': 'N', 'JNJ': 'N', 'PFE': 'N', 'WMT': 'N', 'PG': 'N', 'KO': 'N'}
+[2025-11-23 20:09:57] [INFO] Reached maximum number of allowed conditional variables. Exiting
