@@ -25,13 +25,13 @@ This is illustrated in the CV fit below:
 
 ![Graphical Lasso CV](media/graphicalLASSO_CV.png)
 
-Even though CV does not promote sparsity, the selected $\alpha^*$ still provides a useful **starting graph**, which we later refine using *stability selection*. With this CV-chosen $\alpha^*$, the corresponding precision matrix captures **direct conditional dependencies** between variables after controlling for all others.
+Even though CV does not promote sparsity, the selected $\alpha^\*$ still provides a useful **starting graph**, which we later refine using *stability selection*. With this CV-chosen $\alpha^*$, the corresponding precision matrix captures **direct conditional dependencies** between variables after controlling for all others.
 
 ### Bootstrap Stability Selection
 
 Again, CV is known to **favor overly dense graphs** in Gaussian graphical models. To address this limitation, we complement the CV-chosen model with **stability selection**, which identifies only the *most persistent* structure in the data. The idea is to retain edges that appear consistently under random perturbations of the dataset, and treat unstable edges as noise.
 
-Concretely, we perform **10,000 bootstrap resamples**, refit the Graphical Lasso on each resampled dataset, and record whether each edge is present. Aggregating these results yields a **selection frequency matrix**, where entry $(i,j)$ is the proportion of bootstrap fits in which the edge $i$–$j$ appears.
+Concretely, we perform **10,000 bootstrap resamples**, refit the Graphical Lasso on each resampled dataset, and record whether each edge is present. Aggregating these results yields a **selection frequency matrix**, where entry $(i,j)$ is the proportion of bootstrap fits in which the edge $\overline{ij}$ appears.
 
 ![Graphical Lasso Stability Tuning](media/graphicalLASSO_tuning.png)
 
