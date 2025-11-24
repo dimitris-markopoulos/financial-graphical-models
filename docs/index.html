@@ -3,24 +3,117 @@
 <head>
   <meta charset="UTF-8">
   <title>Financial Graphical Models – Docs</title>
+
+  <!-- Markdown renderer -->
   <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+
+  <!-- Minimal styling -->
   <style>
-    body { max-width: 900px; margin: auto; padding: 40px; }
-    img { max-width: 100%; height: auto; }
+    body {
+      margin: 0;
+      font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+      display: flex;
+      height: 100vh;
+    }
+
+    /* Sidebar */
+    #sidebar {
+      width: 180px;
+      background: #f5f5f5;
+      border-right: 1px solid #ddd;
+      padding: 20px 10px;
+      box-sizing: border-box;
+    }
+
+    #sidebar h2 {
+      font-size: 16px;
+      margin-top: 0;
+      padding-bottom: 8px;
+      border-bottom: 1px solid #ddd;
+    }
+
+    #sidebar a {
+      display: block;
+      padding: 8px 6px;
+      color: #333;
+      text-decoration: none;
+      font-size: 14px;
+      border-radius: 4px;
+      margin-bottom: 4px;
+    }
+
+    #sidebar a:hover {
+      background: #e0e0e0;
+    }
+
+    #sidebar .active {
+      background: #d0d0d0;
+      font-weight: bold;
+    }
+
+    /* Main markdown content */
+    #content {
+      flex: 1;
+      overflow-y: scroll;
+      padding: 40px;
+      box-sizing: border-box;
+      max-width: 900px;
+      margin: auto;
+    }
+
+    img {
+      max-width: 100%;
+      height: auto;
+    }
   </style>
 </head>
+
 <body>
 
-<h1>Part A — EDA</h1>
-<div id="partA"></div>
+  <!-- Sidebar -->
+  <div id="sidebar">
+    <h2>Sections</h2>
 
-<script>
-  fetch("partA.md")
-    .then(r => r.text())
-    .then(md => {
-      document.getElementById("partA").innerHTML = marked.parse(md);
+    <a href="#" data-md="partA.md" class="active">Part A — EDA</a>
+    <a href="#" data-md="partB_gaussian_graphical_model_theory.md">Part B.1 — Gaussian Theory</a>
+    <a href="#" data-md="partB_nonparanormal_graphical_model_theory.md">Part B.2 — Nonparanormal Theory</a>
+    <a href="#" data-md="partB_applied.md">Part B.3 — Applied</a>
+    <a href="#" data-md="partC_demo_PC_algorithm.md">Part C.1 — PC Demo</a>
+    <a href="#" data-md="partC_applied_PC_algo.md">Part C.2 — PC Applied</a>
+    <a href="#" data-md="partD_VAR.md">Part D — VAR Model</a>
+  </div>
+
+  <!-- Content -->
+  <div id="content">
+    Loading…
+  </div>
+
+  <script>
+    function loadMarkdown(mdFile) {
+      fetch(mdFile)
+        .then(response => response.text())
+        .then(text => {
+          document.getElementById("content").innerHTML = marked.parse(text);
+        });
+    }
+
+    // Handle sidebar clicks
+    document.querySelectorAll("#sidebar a").forEach(link => {
+      link.addEventListener("click", function (e) {
+        e.preventDefault();
+
+        // Highlight selected
+        document.querySelectorAll("#sidebar a").forEach(a => a.classList.remove("active"));
+        this.classList.add("active");
+
+        // Load content
+        loadMarkdown(this.dataset.md);
+      });
     });
-</script>
+
+    // Load default page
+    loadMarkdown("partA.md");
+  </script>
 
 </body>
 </html>
