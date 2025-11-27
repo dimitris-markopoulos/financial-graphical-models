@@ -1,4 +1,4 @@
-# Part A — Data Download, Processing & Initial Exploration
+# Data Download, Processing & Initial Exploration
 
 For this section, we collect and preprocess **daily stock return data** from **January 2021 to present** for the following 15 large-cap U.S. companies:
 
